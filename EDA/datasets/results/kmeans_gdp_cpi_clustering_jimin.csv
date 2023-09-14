@@ -1,0 +1,17 @@
+country_name,country_code,series_name,series_code,year,metric_value,kmeans_label,CPI
+Thailand,THA,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,2021_[yr2021],1.35595700059554,2,35
+Singapore,SGP,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,2021_[yr2021],12.1967208124475,3,85
+Philippines,PHL,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,2021_[yr2021],4.13510874396911,2,33
+Nicaragua,NIC,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,2021_[yr2021],8.81985648527825,0,20
+Mexico,MEX,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,2021_[yr2021],4.1363722123716,2,31
+Malaysia,MYS,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,2021_[yr2021],1.944118177395,1,48
+Cambodia,KHM,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,2021_[yr2021],1.83295801608998,0,27
+Indonesia,IDN,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,2021_[yr2021],2.97337518015345,2,38
+Guatemala,GTM,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,2021_[yr2021],6.39408498115625,0,25
+Haiti,HTI,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,2021_[yr2021],-3.00580329140145,0,20
+El Salvador,SLV,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,2021_[yr2021],9.90409111652892,2,34
+Ecuador,ECU,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,2021_[yr2021],3.01037816290692,2,36
+Cuba,CUB,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,2021_[yr2021],1.65281715243313,1,46
+Costa Rica,CRI,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,2021_[yr2021],6.93558539226061,1,58
+Colombia,COL,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,2021_[yr2021],9.41827880580655,2,39
+Vietnam,VNM,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,2021_[yr2021],1.69938954511899,2,39
