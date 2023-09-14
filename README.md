@@ -9,7 +9,7 @@ So, our project was:
 
 Partnering to provide responsible, well-targeted development assistance around the world, especially in Southeast Asia and Latin America … how and where should foreign aid be targeted to return the biggest benefits. 
 
-Our goal is to provide the US embassy with insights of what will be Targeted, Responsible Aid to the recipient country and this is inspired by the difficult that the US State Department experiences.
+Our goal was to provide the US embassy with insights of what will be Targeted, Responsible Aid to the recipient country and this is inspired by the difficult that the US State Department experiences.
 
 for more information about this program please visit the site: https://cds.cdm.depaul.edu/dskus/
 
